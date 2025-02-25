@@ -11,4 +11,6 @@ Even an illiterate still learns in one way or the other
 <!---
 occupythemind/occupythemind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+It all starts, little by little. Born out of curiosity almost seemed as if patience was lost due to heavy responsibilies but at the same time, curiosity.
 --->
