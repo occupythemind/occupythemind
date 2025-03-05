@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @occupythemind
-- 👀 I’m interested in all about computer 💻
+- 👀 I’m interested in learning and knowing all about the computer 💻
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on web applications 
 - 📫 You can reach me on GitHub first
