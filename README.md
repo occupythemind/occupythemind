@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @occupythemind
-- 👀 I’m interested in learning and knowing all about the computer 💻
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on web applications 
-- 📫 You can reach me on GitHub first
-- 😄 Pronouns: ...him
-- ⚡ Fun fact: ...
-Earth has more gravity than the moon,
-Weight is highly mistaken for mass,
-Even an illiterate still learns in one way or the other.
-<!---
-occupythemind/occupythemind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👋 Hi, I’m @occupythemind  
+👀 I’m interested in learning and exploring everything about computers 💻  
+💞️ I’m looking to collaborate on web applications  
+📫 You can reach me on GitHub first  
+😄 Pronouns: him  
+⚡ Fun fact: Earth has more gravity than the moon, weight is often mistaken for mass, and everyone learns in their unique way.
 
-It all starts, little by little. Born out of curiosity almost seemed as if patience was lost due to heavy responsibilies but at the same time, curiosity.
---->
+Check out my other profiles:  
+- <img src="https://www.upwork.com/favicon.ico" height="16px" width="16px" style="vertical-align: middle;" /> [Upwork Profile](https://www.upwork.com/freelancers/~015c0270089603e87d)  
+- <img src="https://forum.djangoproject.com/favicon.ico" height="16px" width="16px" style="vertical-align: middle;" /> [Django Forum Activity](https://forum.djangoproject.com/u/occupythemind/activity)
