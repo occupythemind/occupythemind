@@ -20,4 +20,4 @@ OTM (OccupyTheMind) — Ethical Hacker | Security Researcher | Automation Enthus
 
 > Building tools that automate recon, exploit weaknesses, and visualize attack surfaces.
 > Contributor to open-source offensive security. Reverse engineering for fun.
-> Even the most secure systems becore doors 🚪 when broken.
+> Even the most secure systems become doors 🚪 when broken. I'll ask, I'll seek and I'll knock.
