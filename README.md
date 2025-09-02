@@ -10,11 +10,11 @@ I don’t just break systems — I break assumptions.
 
 ## ⚡ Who I Am
 
-<b> 🕵️‍♂️ Ethical Hacker — exploring vulnerabilities to make systems stronger.
+<b>🕵️‍♂️ Ethical Hacker </b>— exploring vulnerabilities to make systems stronger.
 
-💻 Developer — crafting tools, scripts, and applications that solve real-world problems.
+<b>💻 Developer </b>— crafting tools, scripts, and applications that solve real-world problems.
 
-🎯 Security Researcher — fascinated by race conditions, SSRF, parser discrepancies, and beyond.
+<b>🎯 Security Researcher </b>— fascinated by race conditions, SSRF, parser discrepancies, and beyond.
 
 
 
@@ -22,13 +22,13 @@ I don’t just break systems — I break assumptions.
 
 ## 🛠 Tech Arsenal
 
-🔐 Security: Burp Suite, Nmap, Wireshark, Metasploit, custom payload crafting
+<b>🔐 Security: </b>Burp Suite, Nmap, Wireshark, Metasploit, custom payload crafting
 
-🐍 Languages: Python, C, Bash, PHP (dabbling in others when the mood hits)
+<b>🐍 Languages: </b>Python, C, Bash, PHP (dabbling in others when the mood hits)
 
-⚙️ Platforms: Kali Linux, Docker, GitHub Actions, CI/CD pipelines
+<b>⚙️ Platforms: </b>Kali Linux, Docker, GitHub Actions, CI/CD pipelines
 
-🌐 Focus: Web AppSec, automation, and red team tooling
+<b>🌐 Focus: </b>Web AppSec, automation, and red team tooling
 
 
 
