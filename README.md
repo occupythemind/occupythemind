@@ -1,23 +1,72 @@
-<!-- Title -->
-<h1 align="center">~$ whoami</h1>
-<h3 align="center">OTM | Ethical Hacker | Engineer of the Underground</h3>
+🧠 occupythemind (OTM)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OSINT-active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTF-Warrior-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scripts-Do%20Damage-informational?style=flat-square" />
-</p>
+Hey there 👋 I go by occupythemind (or just OTM).
+I live at the intersection of Ethical Hacking and Software Development — where curiosity drives both defense and creativity.
+
+I don’t just break systems — I break assumptions.
+
 
 ---
 
-### **> about.txt**
+⚡ Who I Am
 
-```bash
-┌──(otm㉿localhost)-[~]
-└─$ cat about.txt
+🕵️‍♂️ Ethical Hacker — exploring vulnerabilities to make systems stronger.
 
-OTM (OccupyTheMind) — Ethical Hacker | Security Researcher | Automation Enthusiast
+💻 Developer — crafting tools, scripts, and applications that solve real-world problems.
 
-> Building tools that automate recon, exploit weaknesses, and visualize attack surfaces.
-> Contributor to open-source offensive security. Reverse engineering for fun.
-> Even the most secure systems become doors 🚪 when broken. I'll ask, I'll seek and I'll knock.
+🎯 Security Researcher — fascinated by race conditions, SSRF, parser discrepancies, and beyond.
+
+
+
+---
+
+🛠 Tech Arsenal
+
+🔐 Security: Burp Suite, Nmap, Wireshark, Metasploit, custom payload crafting
+
+🐍 Languages: Python, C, Bash, PHP (dabbling in others when the mood hits)
+
+⚙️ Platforms: Kali Linux, Docker, GitHub Actions, CI/CD pipelines
+
+🌐 Focus: Web AppSec, automation, and red team tooling
+
+
+
+---
+
+🚀 Current Focus
+
+Automating security tests with creativity.
+
+Researching edge-case vulnerabilities that most scanners miss.
+
+Building tools that merge hacking mindset + dev skills.
+
+
+
+---
+
+🎯 Philosophy
+
+I believe that security isn’t just about defense — it’s about awareness, adaptability, and constant learning.
+
+> “The quieter you become, the more you’re able to hear.”
+
+
+
+
+---
+
+🌍 Let’s Connect
+
+🐦 Twitter/X: [@x_occupythemind](https://x.com/x_occupythemind?t=Xld_VOqFAYSSEb4Nf9X7kQ&s=09)
+
+💼 LinkedIn: [David Akaluzia](https://www.linkedin.com/in/david-akaluzia-14547336a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+🌐 Always open to collaborating on open-source security projects or research.
+
+
+
+---
+
+⭐️ occupythemind — not just a name, but a reminder: the mind is the first system worth securing.
