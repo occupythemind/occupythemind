@@ -1,4 +1,4 @@
-🧠 occupythemind (OTM)
+# 🧠 occupythemind (OTM)
 
 Hey there 👋 I go by occupythemind (or just OTM).
 I live at the intersection of Ethical Hacking and Software Development — where curiosity drives both defense and creativity.
@@ -8,7 +8,7 @@ I don’t just break systems — I break assumptions.
 
 ---
 
-⚡ Who I Am
+# ⚡ Who I Am
 
 🕵️‍♂️ Ethical Hacker — exploring vulnerabilities to make systems stronger.
 
@@ -20,7 +20,7 @@ I don’t just break systems — I break assumptions.
 
 ---
 
-🛠 Tech Arsenal
+# 🛠 Tech Arsenal
 
 🔐 Security: Burp Suite, Nmap, Wireshark, Metasploit, custom payload crafting
 
@@ -34,7 +34,7 @@ I don’t just break systems — I break assumptions.
 
 ---
 
-🚀 Current Focus
+# 🚀 Current Focus
 
 Automating security tests with creativity.
 
@@ -46,7 +46,7 @@ Building tools that merge hacking mindset + dev skills.
 
 ---
 
-🎯 Philosophy
+# 🎯 Philosophy
 
 I believe that security isn’t just about defense — it’s about awareness, adaptability, and constant learning.
 
@@ -57,7 +57,7 @@ I believe that security isn’t just about defense — it’s about awareness, a
 
 ---
 
-🌍 Let’s Connect
+# 🌍 Let’s Connect
 
 🐦 Twitter/X: [@x_occupythemind](https://x.com/x_occupythemind?t=Xld_VOqFAYSSEb4Nf9X7kQ&s=09)
 
